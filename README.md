@@ -1,5 +1,5 @@
 # torch-int
-This repository contains integer operators on GPUs for PyTorch.
+This repository contains integer operators on GPUs for PyTorch. Define linear_a8_w8_bXX_oXX with XX selected from 'FP32' 'BF16' 'FP16'. 'FP16' is not recommended because of possible overflow.
 
 ## Dependencies
 - CUTLASS
