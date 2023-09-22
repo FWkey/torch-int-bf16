@@ -11,7 +11,7 @@ This repository contains integer operators on GPUs for PyTorch. Define linear_a8
 
 ## Installation
 ```bash
-git clone --recurse-submodules https://github.com/Guangxuan-Xiao/torch-int.git
+git clone --recurse-submodules https://github.com/FWkey/torch-int-bf16.git
 conda create -n int python=3.8
 conda activate int
 conda install -c anaconda gxx_linux-64=9
